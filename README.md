@@ -1,7 +1,4 @@
-<div id="header" align="center">
-  <img src="[[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)](https://giphy.com/embed/qgQUggAC3Pfv687qPC)" width="100"/>
-</div>
-
+![GIF](https://giphy.com/embed/qgQUggAC3Pfv687qPC)
 <!--
 **Brainman17/Brainman17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
