@@ -44,7 +44,7 @@
 ![Radixui](https://img.shields.io/badge/-Radixui-2B2B2B?style=flat-square&logo=radixui)
 ![Redux](https://img.shields.io/badge/-Redux-B247AD?style=flat-square&logo=redux)
 ![Redux](https://img.shields.io/badge/-Storybook-2B2E48?style=flat-square&logo=storybook)
-![Redux](https://img.shields.io/badge/-Storybook-2B2E48?style=flat-square&logo=next)
+![Redux](https://img.shields.io/badge/-Next.js-2F3D55?style=flat-square&logo=next.js)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brainman17&theme=rogue)](https://github.com/brainman17/github-readme-activity-graph)
 
