@@ -9,11 +9,9 @@
 <details>
 <summary>⚡️ More about my coding life</summary>
 <br />
-<div align="center" width="100%">
-<div align="center" display="flex">
-  <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Brainman17&theme=dracula&show_icons=true&hide_border=true&count_private=true">
-  <img height="100%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com/?user=Brainman17&theme=dracula&hide_border=true">
-</div>
-  <img height="100%" width="50%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Brainman17&theme=dracula&show_icons=true&hide_border=true&layout=compact">
+<div align="center">
+  <img height="100%" width="100%" src ="https://github-readme-stats.vercel.app/api?username=Brainman17&theme=dracula&show_icons=true&hide_border=true&count_private=true">
+  <img height="100%" width="100%" src ="https://github-readme-streak-stats.herokuapp.com/?user=Brainman17&theme=dracula&hide_border=true">
+  <img height="100%" width="100%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Brainman17&theme=dracula&show_icons=true&hide_border=true&layout=compact">
 </div>
 </details>
