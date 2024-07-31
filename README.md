@@ -29,6 +29,7 @@
 <hr>
 
 <h3 align="center"> Technologies: </h3>
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-171717?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-385D35?style=flat-square&logo=Node.js)
@@ -45,6 +46,9 @@
 ![Redux](https://img.shields.io/badge/-Redux-B247AD?style=flat-square&logo=redux)
 ![Redux](https://img.shields.io/badge/-Storybook-2B2E48?style=flat-square&logo=storybook)
 ![Redux](https://img.shields.io/badge/-Next.js-2F3D55?style=flat-square&logo=next.js)
+
+</div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brainman17&theme=rogue)](https://github.com/brainman17/github-readme-activity-graph)
 
