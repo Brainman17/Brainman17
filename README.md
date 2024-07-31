@@ -2,10 +2,7 @@
 <div align="center">
 
 <img height="100%" width="auto" src ="./images/501.png">
-<img height="100%" width="auto" src ="./images/503.png">
-
 </div>
-
 
 **Skills:**
 
