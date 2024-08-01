@@ -1,6 +1,6 @@
 
 <div align="center">
-<img style="width: auto; height: 100%; object-fit: cover;"  src ="./images/501.png">
+<img width="auto" height="100%" src ="./images/501.png">
 </div>
 
 <br/>
