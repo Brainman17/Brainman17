@@ -44,8 +44,8 @@
 ![Webstorm](https://img.shields.io/badge/-Webstorm-3D6C8E?style=flat-square&logo=webstorm)
 ![Radixui](https://img.shields.io/badge/-Radixui-2B2B2B?style=flat-square&logo=radixui)
 ![Redux](https://img.shields.io/badge/-Redux-B247AD?style=flat-square&logo=redux)
-![Redux](https://img.shields.io/badge/-Storybook-2B2E48?style=flat-square&logo=storybook)
-![Redux](https://img.shields.io/badge/-Next.js-2F3D55?style=flat-square&logo=next.js)
+![Storybook](https://img.shields.io/badge/-Storybook-2B2E48?style=flat-square&logo=storybook)
+![Next.js](https://img.shields.io/badge/-Next.js-2F3D55?style=flat-square&logo=next.js)
 
 </div>
 
