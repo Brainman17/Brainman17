@@ -46,6 +46,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-B247AD?style=flat-square&logo=redux)
 ![Storybook](https://img.shields.io/badge/-Storybook-2B2E48?style=flat-square&logo=storybook)
 ![Next.js](https://img.shields.io/badge/-Next.js-2F3D55?style=flat-square&logo=next.js)
+![Sass](https://img.shields.io/badge/-Sass-643A62?style=flat-square&logo=Sass)
 
 </div>
 
